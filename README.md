@@ -2,11 +2,11 @@
 
 # Hi, I'm Pushkar Verma 👋
 
-**Solo founder building autonomous AI systems — LangGraph · Next.js · MERN**
+**Solo founder building autonomous AI systems that run businesses while I sleep.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/pushkarverma)
-[![Turicks](https://img.shields.io/badge/Turicks.com-AI%20Agency-black?style=flat)](https://turicks.com)
-[![Email](https://img.shields.io/badge/Email-pushkar@turicks.com-D14836?style=flat&logo=gmail)](mailto:pushkar@turicks.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/pushkarverma)
+[![Turicks](https://img.shields.io/badge/Turicks-AI%20Agency-black?style=flat)](https://turicks.com)
+[![Location](https://img.shields.io/badge/📍-Amsterdam%20%7C%20Naggar%2C%20HP-green?style=flat)](https://github.com/pushkarverma)
 
 </div>
 
@@ -14,79 +14,69 @@
 
 ## 🤖 What I Build
 
-I build **multi-agent autonomous systems** and **full-stack web apps** — from LangGraph agent swarms to production Next.js products.
+I build **multi-agent autonomous systems** using LangGraph, LangChain, and Python — systems that do the work of entire ops teams.
 
-Currently running **FounderOS** — a 39-agent AI operating system that runs two companies while I sleep:
+Currently running **FounderOS** — a 39-agent AI operating system managing two companies simultaneously:
+- 🏢 **[Turicks](https://turicks.com)** — AI automation agency (LangGraph · Next.js · MERN)
+- 🏔️ **Naggar Retreat** — Himalayan farm + premium homestay (Ahata brand)
 
-- 🏢 **[Turicks](https://turicks.com)** — AI automation agency delivering in 3-5 days, not 3-5 months
-- 🏔️ **Naggar Retreat** — Himalayan farm + homestay with AI-powered booking & ops
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **FounderOS** | 39-agent autonomous business OS | LangGraph · Python · ChromaDB |
+| **Turicks Agency** | AI automation for SaaS founders | LangGraph · Next.js · FastAPI |
+| **Naggar Retreat** | Smart farm + booking automation | Python · Airbnb API · Weather AI |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI / Agent Systems**
 ```
-LangGraph  ·  LangChain  ·  OpenAI API  ·  Anthropic Claude  ·  Google Gemini
-ChromaDB (RAG)  ·  MLX on Apple Silicon  ·  ReAct loops  ·  Multi-agent orchestration
-```
-
-**Full Stack / Frontend**
-```
-Next.js  ·  React  ·  TypeScript  ·  Tailwind CSS  ·  Shadcn/UI
-MERN Stack  ·  GraphQL  ·  REST APIs  ·  Vercel  ·  Railway
-```
-
-**Backend / APIs**
-```
-Python  ·  FastAPI  ·  Node.js  ·  Express.js  ·  MongoDB  ·  PostgreSQL
-Redis  ·  WebSockets  ·  APScheduler  ·  Docker  ·  SQLAlchemy
+AI/Agents:   LangGraph · LangChain · OpenAI · Anthropic · Gemini · MLX (Apple Silicon)
+Backend:     Python · FastAPI · Node.js · Express
+Frontend:    Next.js · React · TypeScript · Tailwind
+Databases:   PostgreSQL · ChromaDB · SQLite · Redis
+DevOps:      Docker · GitHub Actions · Railway · Vercel
 ```
 
 ---
 
-## 🚀 Featured Work
+## 📊 Current Focus (2026)
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **FounderOS** | 39-agent autonomous business OS | LangGraph · Python · ChromaDB |
-| **Turicks** | AI automation for SaaS founders | Next.js · FastAPI · LangGraph |
-| **Naggar Retreat** | Smart farm & booking automation | Python · Airbnb API · Weather AI |
+- 🔨 **Building:** FounderOS V2 — 39-agent swarm with real tool execution
+- 📈 **Growing:** Turicks AI Agency — 3-5 day delivery, LangGraph specialists
+- 🌱 **Exploring:** On-device AI with Apple MLX + Qwen3
 
 ---
 
-## 📊 Currently Building (2026)
+## 📝 Recent Build Log
 
-```
-→ Production LangGraph systems for SaaS clients @ Turicks
-→ FounderOS V2: 39 agents with real tool execution + on-device MLX
-→ Qwen3-8B on Apple M4 — local inference, zero API cost
-→ Full-stack AI SaaS products for EU/US market
-```
+<!-- These update automatically via FounderOS social_handler -->
+- Building a production LangGraph system for a SaaS client
+- Running Qwen3-8B on M4 MacBook for local AI inference
+- 39 agents, 0 burnout — FounderOS handles the ops
 
 ---
 
-## 🤝 Work With Me
+## 🤝 Let's Work Together
 
-**Building something that needs AI?** Turicks delivers working systems — not wireframes, not prototypes.
+If you're a **SaaS founder spending >4 hrs/week on repetitive operations**, I want to talk.
 
-| Service | Timeline | Price |
-|---------|----------|-------|
-| AI Agent / Automation MVP | 3-5 days | From $500 |
-| LangGraph Multi-Agent System | 1-2 weeks | $2,000–$4,000 |
-| Full-Stack AI SaaS | 2-4 weeks | $3,000–$8,000 |
-| Monthly AI Retainer | Ongoing | $1,500–$3,000/mo |
+We build in LangGraph. Deliver in 3-5 days. No prototypes — working systems only.
 
-📧 **[pushkar@turicks.com](mailto:pushkar@turicks.com)** · 🌐 **[turicks.com](https://turicks.com)** · 💼 **[LinkedIn](https://linkedin.com/in/pushkarverma)**
+📧 **[pushkar@turicks.com](mailto:pushkar@turicks.com)**
+🌐 **[turicks.com](https://turicks.com)**
+💬 **[LinkedIn DM](https://linkedin.com/in/pushkarverma)**
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushkarverma3698&show_icons=true&theme=dark&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarverma3698&layout=compact&theme=dark&hide_border=true)
+*"The best ops team is one that runs without you."*
 
-*39 agents running while I sleep. Building in public.*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushkarverma&show_icons=true&theme=dark&hide_border=true)
 
 </div>
