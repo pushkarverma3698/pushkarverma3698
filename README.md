@@ -12,7 +12,7 @@ Currently: Founder at [Turicks.com](https://turicks.com), building FounderOS —
 
 **What I've shipped:**
 - **FounderOS** — 39-agent orchestration system. Supervisor pattern, 36 Composio tool integrations, per-tenant isolation via Supabase Auth + Drizzle ORM. Zero silo violations in end-to-end testing.
-- **RAG Document Q&A** — FastAPI + ChromaDB + Anthropic embeddings + Docker Compose. Semantic chunking, hybrid search. Full code in [`rag-document-qa`](../rag-document-qa).
+- **RAG Document Q&A** — FastAPI + ChromaDB + Anthropic embeddings + Docker Compose. Semantic chunking, hybrid search. Full code in [`rag-document-qa`](https://github.com/pushkarverma3698/rag-document-qa).
 - **WhatsApp booking automation** — NLP → structured reservation tracking for a real hospitality business (Naggar homestay, Himachal Pradesh). Node.js + LangGraph.js + Twilio.
 
 **Why LangGraph specifically:**
